@@ -27,16 +27,16 @@
         "betabotz",
         "baileys"
     ],
-    "homepage": "https://github.com/ERLANRAHMAT/BETABOTZ-MD2",
+    "homepage": "https://github.com/Reyvknd/botval.git",
     "author": {
         "name": "VALNOUGHT"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ERLANRAHMAT/BETABOTZ-MD2.git"
+        "url": "git+https://github.com/Reyvknd/botval.git"
     },
     "bugs": {
-        "url": "https://github.com/ERLANRAHMAT/BETABOTZ-MD2/issues"
+        "url": "https://github.com/Reyvknd/botval.git"
     },
     "license": "MIT",
     "dependencies": {
